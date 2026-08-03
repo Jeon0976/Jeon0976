@@ -42,10 +42,12 @@
 ![StoreKit](https://img.shields.io/badge/StoreKit_2-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Architecture**
-![Tuist](https://img.shields.io/badge/Tuist-6236FF?style=flat-square&logo=tuist&logoColor=white)
+![Modular](https://img.shields.io/badge/멀티모듈%20%28Tuist%29-6236FF?style=flat-square&logo=tuist&logoColor=white)
+![Micro Feature](https://img.shields.io/badge/Micro_Feature_Architecture-0EA5E9?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B5563?style=flat-square)
 ![MVI](https://img.shields.io/badge/MVI-4B5563?style=flat-square)
-![MVVM+C](https://img.shields.io/badge/MVVM%2BC-4B5563?style=flat-square)
+![MVVM-C](https://img.shields.io/badge/MVVM--C-4B5563?style=flat-square)
+![DIContainer](https://img.shields.io/badge/DIContainer-4B5563?style=flat-square)
 
 **Android · Web**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
