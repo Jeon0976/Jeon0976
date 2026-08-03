@@ -18,9 +18,6 @@
 
 3년차 iOS 개발자입니다. SwiftUI 기반 화면 구현부터 내비게이션·딥링크·상태 관리까지 다루며,
 유지보수하기 쉬운 구조와 확장 가능한 코드를 고민합니다.
-Android(Jetpack Compose)와 React 웹도 함께 다루고, 헤드리스 에이전트 파이프라인을 설계·운영합니다.
-
-**우리요 · 일루미나리안 · 키라앤컴퍼니**에서 일했습니다.
 
 **[→ 포트폴리오 사이트에서 전체 경력과 프로젝트 보기](https://jeon0976.github.io/portfolio-site/)**
 
@@ -61,24 +58,3 @@ Android(Jetpack Compose)와 React 웹도 함께 다루고, 헤드리스 에이�
 ![CoreData](https://img.shields.io/badge/CoreData-1575F9?style=flat-square&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat-square&logo=amplitude&logoColor=white)
-
----
-
-## Featured
-
-| Repository | 설명 |
-|---|---|
-| **[iOS-CleanArchitecture-Sample](https://github.com/Jeon0976/iOS-CleanArchitecture-Sample)** | Clean Architecture 기반 iOS 샘플 |
-| **[iOS-TheModularArchitecture-Sample](https://github.com/Jeon0976/iOS-TheModularArchitecture-Sample)** | Tuist 멀티모듈 아키텍처 샘플 |
-| **[SpeechBubble](https://github.com/Jeon0976/SpeechBubble)** | UIKit 말풍선 라이브러리 |
-| **[AVIRO](https://github.com/Jeon0976/AVIRO)** | 비건 식당 공유 플랫폼 · iOS 전담 |
-
-회사 프로젝트(KIRA, SERENADE 등)는 **[포트폴리오 사이트](https://jeon0976.github.io/portfolio-site/projects.html)**에 정리해두었습니다.
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeon0976&show_icons=true&theme=radical&hide_border=true)
-
-</div>
