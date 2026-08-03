@@ -4,8 +4,6 @@
 
 **iOS Developer**
 
-> 문제는 발생하기 전에 예방하고, 교훈은 팀의 자산으로 남깁니다.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://jeon0976.github.io/portfolio-site/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jeon0976.github.io/portfolio-site/Jeon-Seonghun-Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-jsh097610@gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsh097610@gmail.com)
